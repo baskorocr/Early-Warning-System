@@ -1,0 +1,1790 @@
+2025-02-12T03:16:01.629Z - Data:
+[
+  "12/02/2025",
+  {
+    "customer": "PT. ADYAWINSA PLASTICS INDUSTRY",
+    "invoices": [
+      {
+        "invoice": "24-0649",
+        "overdue": 48,
+        "status": "EXTREME",
+        "sum": "Rp 149.043.030,00"
+      },
+      {
+        "invoice": "24-0741",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 28.980.990,00"
+      },
+      {
+        "invoice": "24-0742",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 33.119.070,00"
+      },
+      {
+        "invoice": "24-0743",
+        "overdue": 24,
+        "status": "HIGH",
+        "sum": "Rp 244.262.160,00"
+      }
+    ],
+    "totalSum": "Rp 455.405.250,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. ARTA UTAMA PLASINDO",
+    "invoices": [
+      {
+        "invoice": "24-0650",
+        "overdue": 38,
+        "status": "EXTREME",
+        "sum": "Rp 1.042.629.854,00"
+      },
+      {
+        "invoice": "24-0667",
+        "overdue": 33,
+        "status": "EXTREME",
+        "sum": "Rp 39.124.336,00"
+      },
+      {
+        "invoice": "24-0669",
+        "overdue": 32,
+        "status": "EXTREME",
+        "sum": "Rp 492.711.378,00"
+      },
+      {
+        "invoice": "24-0704",
+        "overdue": 26,
+        "status": "HIGH",
+        "sum": "Rp 23.184.792,00"
+      },
+      {
+        "invoice": "24-0705",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 5.071.673,00"
+      },
+      {
+        "invoice": "24-0745",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 23.251.919,00"
+      },
+      {
+        "invoice": "24-0751",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 561.432.866,00"
+      },
+      {
+        "invoice": "24-0752",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 903.591.171,00"
+      }
+    ],
+    "totalSum": "Rp 3.090.997.989,00",
+    "nomer": "6289654825055",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. AUTOPLASTIK INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0757",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 74.431.605,00"
+      },
+      {
+        "invoice": "24-0758",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 43.471.485,00"
+      },
+      {
+        "invoice": "25-0038",
+        "overdue": 6,
+        "status": "MEDIUM",
+        "sum": "Rp 47.405.880,00"
+      },
+      {
+        "invoice": "25-0040",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 125.129.745,00"
+      }
+    ],
+    "totalSum": "Rp 290.438.715,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. CAHAYA ABADI PLASTIK",
+    "invoices": [
+      {
+        "invoice": "25-0001",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 29.592.656,00"
+      }
+    ],
+    "totalSum": "Rp 29.592.656,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. CGS INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0430",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0431",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      },
+      {
+        "invoice": "24-0442",
+        "overdue": 131,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0443",
+        "overdue": 135,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      }
+    ],
+    "totalSum": "Rp 112.924.740,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. DHARMA KYUNGSHIN INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0760",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 13.648.542.906,00"
+      }
+    ],
+    "totalSum": "Rp 13.648.542.906,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. IMC TEKNO INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0019",
+        "overdue": 3,
+        "status": "MEDIUM",
+        "sum": "Rp 38.728.400,00"
+      }
+    ],
+    "totalSum": "Rp 38.728.400,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. JAEIL INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0720",
+        "overdue": 31,
+        "status": "EXTREME",
+        "sum": "Rp 431.481.503,00"
+      },
+      {
+        "invoice": "24-0726",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 103.585.394,00"
+      },
+      {
+        "invoice": "24-0727",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 141.498.720,00"
+      }
+    ],
+    "totalSum": "Rp 676.565.617,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. KASAI TECK SEE INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0020",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 124.517.580,00"
+      },
+      {
+        "invoice": "25-0021",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 152.324.190,00"
+      },
+      {
+        "invoice": "25-0022",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 192.197.610,00"
+      },
+      {
+        "invoice": "25-0035",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 137.808.720,00"
+      }
+    ],
+    "totalSum": "Rp 606.848.100,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. MAH SING INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0661",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 1.927.235.835,00"
+      },
+      {
+        "invoice": "24-0716",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0717",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0718",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 33.838.350,00"
+      },
+      {
+        "invoice": "24-0719",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 536.148.315,00"
+      }
+    ],
+    "totalSum": "Rp 2.530.341.570,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. MARUHACHI INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0018",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 50.843.328,00"
+      }
+    ],
+    "totalSum": "Rp 50.843.328,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. SINAR ABADI TECHNOLOGY",
+    "invoices": [
+      {
+        "invoice": "24-0761",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 16.919.175,00"
+      },
+      {
+        "invoice": "25-0008",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 54.383.063,00"
+      },
+      {
+        "invoice": "25-0017",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 11.717.882,00"
+      }
+    ],
+    "totalSum": "Rp 83.020.120,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. SINYONG INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0691",
+        "overdue": 40,
+        "status": "EXTREME",
+        "sum": "Rp 21.626.185,00"
+      }
+    ],
+    "totalSum": "Rp 21.626.185,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. TAKAGI SARI MULTI UTAMA",
+    "invoices": [
+      {
+        "invoice": "25-0029",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 162.337.500,00"
+      },
+      {
+        "invoice": "25-0030",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 97.402.500,00"
+      },
+      {
+        "invoice": "25-0031",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 357.142.500,00"
+      }
+    ],
+    "totalSum": "Rp 616.882.500,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TRIMEGAH BANGUN PERSADA TBK",
+    "invoices": [
+      {
+        "invoice": "24-0762",
+        "overdue": 7,
+        "status": "MEDIUM",
+        "sum": "Rp 144.000.000,00"
+      }
+    ],
+    "totalSum": "Rp 144.000.000,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TUNGPUTRA JAYA SENTOSA",
+    "invoices": [
+      {
+        "invoice": "25-0010",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 32.467.500,00"
+      },
+      {
+        "invoice": "25-0011",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 60.274.110,00"
+      }
+    ],
+    "totalSum": "Rp 92.741.610,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. VUTEQ INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0033",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 6.355.416,00"
+      }
+    ],
+    "totalSum": "Rp 6.355.416,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. YUJU INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0689",
+        "overdue": 41,
+        "status": "EXTREME",
+        "sum": "Rp 51.027.088,00"
+      },
+      {
+        "invoice": "25-0016",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 78.178.715,00"
+      }
+    ],
+    "totalSum": "Rp 129.205.803,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  }
+]
+
+2025-02-12T03:16:40.222Z - Data:
+[
+  "12/02/2025",
+  {
+    "customer": "PT. ADYAWINSA PLASTICS INDUSTRY",
+    "invoices": [
+      {
+        "invoice": "24-0648",
+        "overdue": 68,
+        "status": "EXTREME",
+        "sum": "Rp 66.238.140,00"
+      },
+      {
+        "invoice": "24-0649",
+        "overdue": 48,
+        "status": "EXTREME",
+        "sum": "Rp 149.043.030,00"
+      },
+      {
+        "invoice": "24-0741",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 28.980.990,00"
+      },
+      {
+        "invoice": "24-0742",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 33.119.070,00"
+      },
+      {
+        "invoice": "24-0743",
+        "overdue": 24,
+        "status": "HIGH",
+        "sum": "Rp 244.262.160,00"
+      }
+    ],
+    "totalSum": "Rp 521.643.390,00",
+    "nomer": "6289654825055",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. ARTA UTAMA PLASINDO",
+    "invoices": [
+      {
+        "invoice": "24-0650",
+        "overdue": 38,
+        "status": "EXTREME",
+        "sum": "Rp 1.042.629.854,00"
+      },
+      {
+        "invoice": "24-0667",
+        "overdue": 33,
+        "status": "EXTREME",
+        "sum": "Rp 39.124.336,00"
+      },
+      {
+        "invoice": "24-0669",
+        "overdue": 32,
+        "status": "EXTREME",
+        "sum": "Rp 492.711.378,00"
+      },
+      {
+        "invoice": "24-0704",
+        "overdue": 26,
+        "status": "HIGH",
+        "sum": "Rp 23.184.792,00"
+      },
+      {
+        "invoice": "24-0705",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 5.071.673,00"
+      },
+      {
+        "invoice": "24-0745",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 23.251.919,00"
+      },
+      {
+        "invoice": "24-0751",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 561.432.866,00"
+      },
+      {
+        "invoice": "24-0752",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 903.591.171,00"
+      }
+    ],
+    "totalSum": "Rp 3.090.997.989,00",
+    "nomer": "6289654825055",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. AUTOPLASTIK INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0757",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 74.431.605,00"
+      },
+      {
+        "invoice": "24-0758",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 43.471.485,00"
+      },
+      {
+        "invoice": "25-0038",
+        "overdue": 6,
+        "status": "MEDIUM",
+        "sum": "Rp 47.405.880,00"
+      },
+      {
+        "invoice": "25-0040",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 125.129.745,00"
+      }
+    ],
+    "totalSum": "Rp 290.438.715,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. CAHAYA ABADI PLASTIK",
+    "invoices": [
+      {
+        "invoice": "25-0001",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 29.592.656,00"
+      }
+    ],
+    "totalSum": "Rp 29.592.656,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. CGS INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0430",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0431",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      },
+      {
+        "invoice": "24-0442",
+        "overdue": 131,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0443",
+        "overdue": 135,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      }
+    ],
+    "totalSum": "Rp 112.924.740,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. DHARMA KYUNGSHIN INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0760",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 13.648.542.906,00"
+      }
+    ],
+    "totalSum": "Rp 13.648.542.906,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. IMC TEKNO INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0019",
+        "overdue": 3,
+        "status": "MEDIUM",
+        "sum": "Rp 38.728.400,00"
+      }
+    ],
+    "totalSum": "Rp 38.728.400,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. JAEIL INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0720",
+        "overdue": 31,
+        "status": "EXTREME",
+        "sum": "Rp 431.481.503,00"
+      },
+      {
+        "invoice": "24-0726",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 103.585.394,00"
+      },
+      {
+        "invoice": "24-0727",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 141.498.720,00"
+      }
+    ],
+    "totalSum": "Rp 676.565.617,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. KASAI TECK SEE INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0020",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 124.517.580,00"
+      },
+      {
+        "invoice": "25-0021",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 152.324.190,00"
+      },
+      {
+        "invoice": "25-0022",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 192.197.610,00"
+      },
+      {
+        "invoice": "25-0035",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 137.808.720,00"
+      }
+    ],
+    "totalSum": "Rp 606.848.100,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. MAH SING INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0661",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 1.927.235.835,00"
+      },
+      {
+        "invoice": "24-0716",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0717",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0718",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 33.838.350,00"
+      },
+      {
+        "invoice": "24-0719",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 536.148.315,00"
+      }
+    ],
+    "totalSum": "Rp 2.530.341.570,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. MARUHACHI INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0018",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 50.843.328,00"
+      }
+    ],
+    "totalSum": "Rp 50.843.328,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. SINAR ABADI TECHNOLOGY",
+    "invoices": [
+      {
+        "invoice": "24-0761",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 16.919.175,00"
+      },
+      {
+        "invoice": "25-0008",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 54.383.063,00"
+      },
+      {
+        "invoice": "25-0017",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 11.717.882,00"
+      }
+    ],
+    "totalSum": "Rp 83.020.120,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. SINYONG INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0691",
+        "overdue": 40,
+        "status": "EXTREME",
+        "sum": "Rp 21.626.185,00"
+      }
+    ],
+    "totalSum": "Rp 21.626.185,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. TAKAGI SARI MULTI UTAMA",
+    "invoices": [
+      {
+        "invoice": "25-0029",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 162.337.500,00"
+      },
+      {
+        "invoice": "25-0030",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 97.402.500,00"
+      },
+      {
+        "invoice": "25-0031",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 357.142.500,00"
+      }
+    ],
+    "totalSum": "Rp 616.882.500,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TRIMEGAH BANGUN PERSADA TBK",
+    "invoices": [
+      {
+        "invoice": "24-0762",
+        "overdue": 7,
+        "status": "MEDIUM",
+        "sum": "Rp 144.000.000,00"
+      }
+    ],
+    "totalSum": "Rp 144.000.000,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TUNGPUTRA JAYA SENTOSA",
+    "invoices": [
+      {
+        "invoice": "25-0010",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 32.467.500,00"
+      },
+      {
+        "invoice": "25-0011",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 60.274.110,00"
+      }
+    ],
+    "totalSum": "Rp 92.741.610,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. VUTEQ INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0033",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 6.355.416,00"
+      }
+    ],
+    "totalSum": "Rp 6.355.416,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. YUJU INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0689",
+        "overdue": 41,
+        "status": "EXTREME",
+        "sum": "Rp 51.027.088,00"
+      },
+      {
+        "invoice": "25-0016",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 78.178.715,00"
+      }
+    ],
+    "totalSum": "Rp 129.205.803,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  }
+]
+
+2025-02-12T03:16:46.646Z - Data:
+[
+  "12/02/2025",
+  {
+    "customer": "PT. ADYAWINSA PLASTICS INDUSTRY",
+    "invoices": [
+      {
+        "invoice": "24-0648",
+        "overdue": 68,
+        "status": "EXTREME",
+        "sum": "Rp 66.238.140,00"
+      },
+      {
+        "invoice": "24-0649",
+        "overdue": 48,
+        "status": "EXTREME",
+        "sum": "Rp 149.043.030,00"
+      },
+      {
+        "invoice": "24-0741",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 28.980.990,00"
+      },
+      {
+        "invoice": "24-0742",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 33.119.070,00"
+      },
+      {
+        "invoice": "24-0743",
+        "overdue": 24,
+        "status": "HIGH",
+        "sum": "Rp 244.262.160,00"
+      }
+    ],
+    "totalSum": "Rp 521.643.390,00",
+    "nomer": "6289654825055",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. ARTA UTAMA PLASINDO",
+    "invoices": [
+      {
+        "invoice": "24-0650",
+        "overdue": 38,
+        "status": "EXTREME",
+        "sum": "Rp 1.042.629.854,00"
+      },
+      {
+        "invoice": "24-0667",
+        "overdue": 33,
+        "status": "EXTREME",
+        "sum": "Rp 39.124.336,00"
+      },
+      {
+        "invoice": "24-0669",
+        "overdue": 32,
+        "status": "EXTREME",
+        "sum": "Rp 492.711.378,00"
+      },
+      {
+        "invoice": "24-0704",
+        "overdue": 26,
+        "status": "HIGH",
+        "sum": "Rp 23.184.792,00"
+      },
+      {
+        "invoice": "24-0705",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 5.071.673,00"
+      },
+      {
+        "invoice": "24-0745",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 23.251.919,00"
+      },
+      {
+        "invoice": "24-0751",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 561.432.866,00"
+      },
+      {
+        "invoice": "24-0752",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 903.591.171,00"
+      }
+    ],
+    "totalSum": "Rp 3.090.997.989,00",
+    "nomer": "6289654825055",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. AUTOPLASTIK INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0757",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 74.431.605,00"
+      },
+      {
+        "invoice": "24-0758",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 43.471.485,00"
+      },
+      {
+        "invoice": "25-0038",
+        "overdue": 6,
+        "status": "MEDIUM",
+        "sum": "Rp 47.405.880,00"
+      },
+      {
+        "invoice": "25-0040",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 125.129.745,00"
+      }
+    ],
+    "totalSum": "Rp 290.438.715,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. CAHAYA ABADI PLASTIK",
+    "invoices": [
+      {
+        "invoice": "25-0001",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 29.592.656,00"
+      }
+    ],
+    "totalSum": "Rp 29.592.656,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. CGS INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0430",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0431",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      },
+      {
+        "invoice": "24-0442",
+        "overdue": 131,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0443",
+        "overdue": 135,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      }
+    ],
+    "totalSum": "Rp 112.924.740,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. DHARMA KYUNGSHIN INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0760",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 13.648.542.906,00"
+      }
+    ],
+    "totalSum": "Rp 13.648.542.906,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. IMC TEKNO INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0019",
+        "overdue": 3,
+        "status": "MEDIUM",
+        "sum": "Rp 38.728.400,00"
+      }
+    ],
+    "totalSum": "Rp 38.728.400,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. JAEIL INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0720",
+        "overdue": 31,
+        "status": "EXTREME",
+        "sum": "Rp 431.481.503,00"
+      },
+      {
+        "invoice": "24-0726",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 103.585.394,00"
+      },
+      {
+        "invoice": "24-0727",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 141.498.720,00"
+      }
+    ],
+    "totalSum": "Rp 676.565.617,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. KASAI TECK SEE INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0020",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 124.517.580,00"
+      },
+      {
+        "invoice": "25-0021",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 152.324.190,00"
+      },
+      {
+        "invoice": "25-0022",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 192.197.610,00"
+      },
+      {
+        "invoice": "25-0035",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 137.808.720,00"
+      }
+    ],
+    "totalSum": "Rp 606.848.100,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. MAH SING INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0661",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 1.927.235.835,00"
+      },
+      {
+        "invoice": "24-0716",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0717",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0718",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 33.838.350,00"
+      },
+      {
+        "invoice": "24-0719",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 536.148.315,00"
+      }
+    ],
+    "totalSum": "Rp 2.530.341.570,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. MARUHACHI INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0018",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 50.843.328,00"
+      }
+    ],
+    "totalSum": "Rp 50.843.328,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. SINAR ABADI TECHNOLOGY",
+    "invoices": [
+      {
+        "invoice": "24-0761",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 16.919.175,00"
+      },
+      {
+        "invoice": "25-0008",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 54.383.063,00"
+      },
+      {
+        "invoice": "25-0017",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 11.717.882,00"
+      }
+    ],
+    "totalSum": "Rp 83.020.120,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. SINYONG INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0691",
+        "overdue": 40,
+        "status": "EXTREME",
+        "sum": "Rp 21.626.185,00"
+      }
+    ],
+    "totalSum": "Rp 21.626.185,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. TAKAGI SARI MULTI UTAMA",
+    "invoices": [
+      {
+        "invoice": "25-0029",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 162.337.500,00"
+      },
+      {
+        "invoice": "25-0030",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 97.402.500,00"
+      },
+      {
+        "invoice": "25-0031",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 357.142.500,00"
+      }
+    ],
+    "totalSum": "Rp 616.882.500,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TRIMEGAH BANGUN PERSADA TBK",
+    "invoices": [
+      {
+        "invoice": "24-0762",
+        "overdue": 7,
+        "status": "MEDIUM",
+        "sum": "Rp 144.000.000,00"
+      }
+    ],
+    "totalSum": "Rp 144.000.000,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TUNGPUTRA JAYA SENTOSA",
+    "invoices": [
+      {
+        "invoice": "25-0010",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 32.467.500,00"
+      },
+      {
+        "invoice": "25-0011",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 60.274.110,00"
+      }
+    ],
+    "totalSum": "Rp 92.741.610,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. VUTEQ INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0033",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 6.355.416,00"
+      }
+    ],
+    "totalSum": "Rp 6.355.416,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. YUJU INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0689",
+        "overdue": 41,
+        "status": "EXTREME",
+        "sum": "Rp 51.027.088,00"
+      },
+      {
+        "invoice": "25-0016",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 78.178.715,00"
+      }
+    ],
+    "totalSum": "Rp 129.205.803,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  }
+]
+
+2025-02-12T03:18:58.164Z - Data:
+[
+  "10:18",
+  {
+    "customer": "PT. ADYAWINSA PLASTICS INDUSTRY",
+    "invoices": [
+      {
+        "invoice": "24-0648",
+        "overdue": 68,
+        "status": "EXTREME",
+        "sum": "Rp 66.238.140,00"
+      },
+      {
+        "invoice": "24-0649",
+        "overdue": 48,
+        "status": "EXTREME",
+        "sum": "Rp 149.043.030,00"
+      },
+      {
+        "invoice": "24-0741",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 28.980.990,00"
+      },
+      {
+        "invoice": "24-0742",
+        "overdue": 23,
+        "status": "HIGH",
+        "sum": "Rp 33.119.070,00"
+      },
+      {
+        "invoice": "24-0743",
+        "overdue": 24,
+        "status": "HIGH",
+        "sum": "Rp 244.262.160,00"
+      }
+    ],
+    "totalSum": "Rp 521.643.390,00",
+    "nomer": "6289654825055",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. ARTA UTAMA PLASINDO",
+    "invoices": [
+      {
+        "invoice": "24-0650",
+        "overdue": 38,
+        "status": "EXTREME",
+        "sum": "Rp 1.042.629.854,00"
+      },
+      {
+        "invoice": "24-0667",
+        "overdue": 33,
+        "status": "EXTREME",
+        "sum": "Rp 39.124.336,00"
+      },
+      {
+        "invoice": "24-0669",
+        "overdue": 32,
+        "status": "EXTREME",
+        "sum": "Rp 492.711.378,00"
+      },
+      {
+        "invoice": "24-0704",
+        "overdue": 26,
+        "status": "HIGH",
+        "sum": "Rp 23.184.792,00"
+      },
+      {
+        "invoice": "24-0705",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 5.071.673,00"
+      },
+      {
+        "invoice": "24-0745",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 23.251.919,00"
+      },
+      {
+        "invoice": "24-0751",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 561.432.866,00"
+      },
+      {
+        "invoice": "24-0752",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 903.591.171,00"
+      }
+    ],
+    "totalSum": "Rp 3.090.997.989,00",
+    "nomer": "6289654825055",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. AUTOPLASTIK INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0757",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 74.431.605,00"
+      },
+      {
+        "invoice": "24-0758",
+        "overdue": 19,
+        "status": "HIGH",
+        "sum": "Rp 43.471.485,00"
+      },
+      {
+        "invoice": "25-0038",
+        "overdue": 6,
+        "status": "MEDIUM",
+        "sum": "Rp 47.405.880,00"
+      },
+      {
+        "invoice": "25-0040",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 125.129.745,00"
+      }
+    ],
+    "totalSum": "Rp 290.438.715,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. CAHAYA ABADI PLASTIK",
+    "invoices": [
+      {
+        "invoice": "25-0001",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 29.592.656,00"
+      }
+    ],
+    "totalSum": "Rp 29.592.656,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. CGS INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0430",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0431",
+        "overdue": 159,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      },
+      {
+        "invoice": "24-0442",
+        "overdue": 131,
+        "status": "EXTREME",
+        "sum": "Rp 39.960.000,00"
+      },
+      {
+        "invoice": "24-0443",
+        "overdue": 135,
+        "status": "EXTREME",
+        "sum": "Rp 16.502.370,00"
+      }
+    ],
+    "totalSum": "Rp 112.924.740,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. DHARMA KYUNGSHIN INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0760",
+        "overdue": 2,
+        "status": "MEDIUM",
+        "sum": "Rp 13.648.542.906,00"
+      }
+    ],
+    "totalSum": "Rp 13.648.542.906,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. IMC TEKNO INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0019",
+        "overdue": 3,
+        "status": "MEDIUM",
+        "sum": "Rp 38.728.400,00"
+      }
+    ],
+    "totalSum": "Rp 38.728.400,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. JAEIL INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0720",
+        "overdue": 31,
+        "status": "EXTREME",
+        "sum": "Rp 431.481.503,00"
+      },
+      {
+        "invoice": "24-0726",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 103.585.394,00"
+      },
+      {
+        "invoice": "24-0727",
+        "overdue": 25,
+        "status": "HIGH",
+        "sum": "Rp 141.498.720,00"
+      }
+    ],
+    "totalSum": "Rp 676.565.617,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. KASAI TECK SEE INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0020",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 124.517.580,00"
+      },
+      {
+        "invoice": "25-0021",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 152.324.190,00"
+      },
+      {
+        "invoice": "25-0022",
+        "overdue": 4,
+        "status": "MEDIUM",
+        "sum": "Rp 192.197.610,00"
+      },
+      {
+        "invoice": "25-0035",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 137.808.720,00"
+      }
+    ],
+    "totalSum": "Rp 606.848.100,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. MAH SING INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0661",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 1.927.235.835,00"
+      },
+      {
+        "invoice": "24-0716",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0717",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 16.559.535,00"
+      },
+      {
+        "invoice": "24-0718",
+        "overdue": 11,
+        "status": "HIGH",
+        "sum": "Rp 33.838.350,00"
+      },
+      {
+        "invoice": "24-0719",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 536.148.315,00"
+      }
+    ],
+    "totalSum": "Rp 2.530.341.570,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. MARUHACHI INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0018",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 50.843.328,00"
+      }
+    ],
+    "totalSum": "Rp 50.843.328,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. SINAR ABADI TECHNOLOGY",
+    "invoices": [
+      {
+        "invoice": "24-0761",
+        "overdue": 17,
+        "status": "HIGH",
+        "sum": "Rp 16.919.175,00"
+      },
+      {
+        "invoice": "25-0008",
+        "overdue": 9,
+        "status": "MEDIUM",
+        "sum": "Rp 54.383.063,00"
+      },
+      {
+        "invoice": "25-0017",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 11.717.882,00"
+      }
+    ],
+    "totalSum": "Rp 83.020.120,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. SINYONG INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0691",
+        "overdue": 40,
+        "status": "EXTREME",
+        "sum": "Rp 21.626.185,00"
+      }
+    ],
+    "totalSum": "Rp 21.626.185,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  },
+  {
+    "customer": "PT. TAKAGI SARI MULTI UTAMA",
+    "invoices": [
+      {
+        "invoice": "25-0029",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 162.337.500,00"
+      },
+      {
+        "invoice": "25-0030",
+        "overdue": 8,
+        "status": "MEDIUM",
+        "sum": "Rp 97.402.500,00"
+      },
+      {
+        "invoice": "25-0031",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 357.142.500,00"
+      }
+    ],
+    "totalSum": "Rp 616.882.500,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TRIMEGAH BANGUN PERSADA TBK",
+    "invoices": [
+      {
+        "invoice": "24-0762",
+        "overdue": 7,
+        "status": "MEDIUM",
+        "sum": "Rp 144.000.000,00"
+      }
+    ],
+    "totalSum": "Rp 144.000.000,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. TUNGPUTRA JAYA SENTOSA",
+    "invoices": [
+      {
+        "invoice": "25-0010",
+        "overdue": 5,
+        "status": "MEDIUM",
+        "sum": "Rp 32.467.500,00"
+      },
+      {
+        "invoice": "25-0011",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 60.274.110,00"
+      }
+    ],
+    "totalSum": "Rp 92.741.610,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. VUTEQ INDONESIA",
+    "invoices": [
+      {
+        "invoice": "25-0033",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 6.355.416,00"
+      }
+    ],
+    "totalSum": "Rp 6.355.416,00",
+    "nomer": "",
+    "date": "12/02/2025"
+  },
+  {
+    "customer": "PT. YUJU INDONESIA",
+    "invoices": [
+      {
+        "invoice": "24-0689",
+        "overdue": 41,
+        "status": "EXTREME",
+        "sum": "Rp 51.027.088,00"
+      },
+      {
+        "invoice": "25-0016",
+        "overdue": 10,
+        "status": "MEDIUM",
+        "sum": "Rp 78.178.715,00"
+      }
+    ],
+    "totalSum": "Rp 129.205.803,00",
+    "nomer": "",
+    "date": "26/02/2025"
+  }
+]
+

@@ -112,7 +112,7 @@ async function fetchData() {
 
     let customerMap = {};
 
-    combinedValues.push(response.data.values[1][7]); // Optional, you can remove this if it's unnecessary
+    combinedValues.push(response.data.values[1][8]); // Optional, you can remove this if it's unnecessary
 
     for (let i = 1; i < response.data.values.length; i++) {
       const row = response.data.values[i];
@@ -171,6 +171,8 @@ async function fetchData() {
         date: customer.date,
       });
     });
+
+    saveLog(combinedValues);
 
     return combinedValues; // Mengembalikan semua data setelah loop selesai
   } catch (error) {
@@ -260,12 +262,12 @@ async function main() {
         }
 
         if (!found) {
-          console.log("Tidak Ada Jadwal 5R!");
+          console.log("Tidak ada Notifikasi");
         }
       }
 
       // Add a delay to prevent the loop from consuming too much CPU
-      await new Promise((resolve) => setTimeout(resolve, 60000)); // Delay for 1 minute (60000 milliseconds)
+      await new Promise((resolve) => setTimeout(resolve, 6000)); // Delay for 1 minute (60000 milliseconds)
     }
   } catch (error) {
     console.error(error.message);
